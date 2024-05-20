@@ -11,7 +11,7 @@ export default function Header(){
             <div className="header">
                 <div className="text">
                 <span className="pear"><Link to="/office">LOG</Link></span>
-                <span className="orange"><Link to="office">O</Link></span>  
+                <span className="orange"><Link to="/office">O</Link></span>  
                 </div>
             <ul className={visible? "":"jan"}>
                 <li><Link to="/office">Office Rates</Link></li>

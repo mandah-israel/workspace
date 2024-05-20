@@ -154,7 +154,7 @@ function scrollToSection(){
         </div>
         <div className="daily">
             <p>Weekly</p>
-            <div className="naira">{show? "NGN1600" : "NGN10000"}</div>
+            <div className="naira">{show? "NGN16000" : "NGN10000"}</div>
             <div className="icon">
                 <div className="vow">
                    <CheckCircle size={25}/>

@@ -286,7 +286,7 @@ display:none;
   display:flex;
   justify-content:center;
   align-items:center;
-  background-color:rgba(128, 128, 128, 0.267);
+  background-color:rgba(128, 128, 128, 0.137);
   border-radius:15px;
   padding:8px 15px;
   width:360px;
@@ -342,7 +342,7 @@ display:none;
   padding:20px 22px;
   width:300px;
   height:350px;
-  margin:30px;
+  margin:30px; 
  }
  .hide{
   margin:0;
